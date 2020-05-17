@@ -10,9 +10,6 @@
     "support": {
     },
     "autoload": {
-        "psr-0": {
-            "Doctrine_": "lib/"
-        }
     },
     "extra": {
     }
