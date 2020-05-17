@@ -1,0 +1,19 @@
+{
+    "name": "prodemos/apostropheFeedbackPlugin",
+    "type": "library",
+    "description": "apostropheFeedbackPlugin",
+    "keywords": ["apostropheFeedbackPlugin"],
+    "authors": [
+    ],
+    "require": {
+    },
+    "support": {
+    },
+    "autoload": {
+        "psr-0": {
+            "Doctrine_": "lib/"
+        }
+    },
+    "extra": {
+    }
+}
